@@ -8,4 +8,5 @@
 - Style Sheet
 
 ## Deploy :rocket:
-- Para visualizar instale este [arquivo.apk](https://github.com/gustavogss/gustavoapp/releases/tag/v1.0.0) em seu celular Android
+- Para visualizar instale este [arquivo.apk](https://github.com/gustavogss/gustavoapp/application-64ce2a2a-9654-4441-9413-fd68e08e8c51.apk
+) em seu celular Android
