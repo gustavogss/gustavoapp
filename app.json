@@ -13,7 +13,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "dev.gustavosouza.gustavoapp",
@@ -27,6 +29,11 @@
         "versionCode": 1
       },
       "package": "dev.gustavosouza.gustavoapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1f38bf2c-cd8a-4002-9a16-2c017b549b7d"
+      }
     }
   }
 }

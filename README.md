@@ -1,10 +1,10 @@
-# Projeto
+# Projeto :iphone:
 
 - Aplicativo para Android do meu portfólio
 
-## Stacks utilizadas:
+## Stacks utilizadas :robot:
 
 - Expo
 - Style Sheet
 
-# Deploy
+## Deploy :rocket:
